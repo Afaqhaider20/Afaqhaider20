@@ -1,71 +1,34 @@
-Hi, I'm Muhammed Afaq Haider 👋
+👋 Hi, I'm Muhammed Afaq Haider
 
-Welcome to my GitHub profile! I'm a passionate and dedicated Full Stack Developer, Cybersecurity Enthusiast, and a final-year BSCS student at BNU. My goal is to create impactful projects that bridge innovation and functionality.
+I'm a Full Stack Developer (MERN) and Cybersecurity Enthusiast, passionate about building fast, scalable, and secure applications.
 
 🚀 About Me
 
-🎓 Education: Final-year Bachelor of Science in Computer Science (BSCS) at BNU.
+🎓 Education: BSCS Graduate from Beaconhouse National University (BNU).
 
-💼 Freelance Developer: Specializing in the MERN stack with a focus on scalable and efficient solutions.
+💼 Full Stack Developer at Proglia: Working on production-level backend and frontend features with rapid delivery cycles.
 
-🔐 Cybersecurity Enthusiast: Exploring web application security and threat modeling.
+🧑‍💻 Freelance Developer: Experience building complete MERN applications for clients.
 
-🌍 Languages & Tools: JavaScript, Python, Tailwind CSS, MongoDB, Express.js, React, Node.js, Passport.js, and more.
+🔐 Cybersecurity Enthusiast: Exploring web app security, threat modeling, SQL injection testing, and secure authentication.
 
-🏆 Certifications: Google Cybersecurity, UX Design, Data Analytics, and IT Automation with Python.
+🛠️ Tech Stack: JavaScript, Python, React, Node.js, Express.js, MongoDB, Tailwind CSS, Shadcn UI, Passport.js, Vite.
 
-🛠️ Projects
-
-🌟 Explorely
-
-A social media app for travelers combining features from Reddit, Google Reviews, and TripAdvisor. Includes:
-
-Community Forums for discussions.
-
-Trip Planning tools.
-
-Flagged Reviews visible only to admins.
-
-Built with: MERN Stack, Tailwind CSS, and Shadcn UI.
-
-🛒 E-commerce Website
-
-An intuitive and responsive e-commerce platform designed for seamless user experience. Features include:
-
-Product management.
-
-Secure payment integration.
-
-User authentication.
-
-Built with: MERN Stack.
-
-Explore more of my projects here.
+🏆 Certifications:
+Google Cybersecurity • UX Design • Data Analytics •
+IT Automation with Python • IT Support • Digital Marketing • Project Management
 
 💡 Skills
 
-Frontend Development: React, Tailwind CSS, Shadcn UI.
-
-Backend Development: Node.js, Express.js, MongoDB.
-
-Cybersecurity: SQL injection testing, threat modeling with STRIDE, and secure authentication.
-
-Tools: Burp Suite, WebGoat, SQLmap, Vite.
+Frontend: React, Tailwind CSS, Shadcn UI
+Backend: Node.js, Express.js, MongoDB
+Security: STRIDE threat modeling, SQL injection testing, secure authentication flows
+Tools: Burp Suite, SQLmap, WebGoat, Vite, Postman, Git/GitHub
 
 🎯 Goals
 
-📈 Secure a remote MERN stack development role.
+📈 Grow into a Senior MERN Stack Developer
 
-🛡️ Master advanced cybersecurity concepts and threat mitigation.
+🛡️ Master advanced cybersecurity and web-app security concepts
 
-🤝 Collaborate on impactful open-source projects.
-
-📫 Connect With Me
-
-Email: afaqbharwana@gmail.com
-
-LinkedIn: Muhammed Afaq Haider
-
-Portfolio: [Coming Soon!]
-
-Thank you for visiting my GitHub profile! I'm always open to collaboration, feedback, or just a friendly chat. Let's build something amazing together! 🚀
+🤝 Collaborate on impactful open-source projects
