@@ -1,34 +1,35 @@
-👋 Hi, I'm Muhammed Afaq Haider
+# Muhammed Afaq Haider
 
-I'm a Full Stack Developer (MERN) and Cybersecurity Enthusiast, passionate about building fast, scalable, and secure applications.
+Full Stack Developer (MERN) and Cybersecurity Enthusiast, passionate about building fast, scalable, and secure applications.
 
-🚀 About Me
+## About Me
 
-🎓 Education: BSCS Graduate from Beaconhouse National University (BNU).
+**Education:** BSCS Graduate from Beaconhouse National University (BNU)
 
-💼 Full Stack Developer at Proglia: Working on production-level backend and frontend features with rapid delivery cycles.
+**Full Stack Developer at Proglia:** Working on production-level backend and frontend features with rapid delivery cycles.
 
-🧑‍💻 Freelance Developer: Experience building complete MERN applications for clients.
+**Freelance Developer:** Experience building complete MERN applications for clients.
 
-🔐 Cybersecurity Enthusiast: Exploring web app security, threat modeling, SQL injection testing, and secure authentication.
+**Cybersecurity Enthusiast:** Exploring web app security, threat modeling, SQL injection testing, and secure authentication.
 
-🛠️ Tech Stack: JavaScript, Python, React, Node.js, Express.js, MongoDB, Tailwind CSS, Shadcn UI, Passport.js, Vite.
+**Tech Stack:** JavaScript, Python, React, Node.js, Express.js, MongoDB, Tailwind CSS, Shadcn UI, Passport.js, Vite
 
-🏆 Certifications:
-Google Cybersecurity • UX Design • Data Analytics •
-IT Automation with Python • IT Support • Digital Marketing • Project Management
+## Certifications
 
-💡 Skills
+Google Cybersecurity | UX Design | Data Analytics | IT Automation with Python | IT Support | Digital Marketing | Project Management
 
-Frontend: React, Tailwind CSS, Shadcn UI
-Backend: Node.js, Express.js, MongoDB
-Security: STRIDE threat modeling, SQL injection testing, secure authentication flows
-Tools: Burp Suite, SQLmap, WebGoat, Vite, Postman, Git/GitHub
+## Skills
 
-🎯 Goals
+**Frontend:** React, Tailwind CSS, Shadcn UI
 
-📈 Grow into a Senior MERN Stack Developer
+**Backend:** Node.js, Express.js, MongoDB
 
-🛡️ Master advanced cybersecurity and web-app security concepts
+**Security:** STRIDE threat modeling, SQL injection testing, secure authentication flows
 
-🤝 Collaborate on impactful open-source projects
+**Tools:** Burp Suite, SQLmap, WebGoat, Vite, Postman, Git/GitHub
+
+## Goals
+
+- Grow into a Senior MERN Stack Developer
+- Master advanced cybersecurity and web-app security concepts
+- Collaborate on impactful open-source projects
