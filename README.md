@@ -12,7 +12,7 @@ Full Stack Developer (MERN) and Cybersecurity Enthusiast, passionate about build
 
 **Cybersecurity Enthusiast:** Exploring web app security, threat modeling, SQL injection testing, and secure authentication.
 
-**Tech Stack:** JavaScript, Python, React, Node.js, Express.js, MongoDB, Tailwind CSS, Shadcn UI, Passport.js, Vite
+**Tech Stack:** JavaScript, Python, React, Node.js, Express.js, MongoDB, PostgreSQL, Tailwind CSS, Shadcn UI, Passport.js, Vite
 
 ## Certifications
 
@@ -22,9 +22,13 @@ Google Cybersecurity | UX Design | Data Analytics | IT Automation with Python | 
 
 **Frontend:** React, Tailwind CSS, Shadcn UI
 
-**Backend:** Node.js, Express.js, MongoDB
+**Backend:** Node.js, Express.js
+
+**Databases:** MongoDB, PostgreSQL
 
 **Security:** STRIDE threat modeling, SQL injection testing, secure authentication flows
+
+**Cloud & Infrastructure:** AWS (EC2, App Runner, RDS), DigitalOcean (Droplets)
 
 **Tools:** Burp Suite, SQLmap, WebGoat, Vite, Postman, Git/GitHub
 
